@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=29&duration=4999&pause=996&color=323378&center=true&vCenter=true&width=435&lines=TH%C3%89O+MATOS;seja+bem+vindo!+%F0%9F%9B%B8" alt="Typing SVG"/>
+</p>
+
+
 # 🪐 Sobre Mim:
 <div style="display: flex; align-items: center;">
   <div>
